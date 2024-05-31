@@ -21,7 +21,7 @@ x5  1
 x6  1
 # if not specified in factor levels, it is always 1 relative to 0. If specified with levels, it is always level2 relative to level1; levels=c(level1, level2) 
 ```
-# Additonally it can calculate degs adjusted up to four to covariates
+# Additonally it can calculate degs adjusted up to four covariates
 ## Example:
 ```
 dgeObj # dgeObj from your analysis (can be from my.object$dgeObj from myrnaseq function)
