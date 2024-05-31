@@ -1,4 +1,4 @@
-# A function to calclualte DEGS from raw count matrix. It creates all additional figures and normalizes the data using TMM and VOOM.
+# A function to calculate DEGS from raw count matrix. It creates all additional figures and normalizes the data using TMM and VOOM.
 ## Example:
 ```
 countdata # dataframe of raw counts
